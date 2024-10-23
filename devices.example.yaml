@@ -1,0 +1,8 @@
+devices:
+  # device name - does not matter, it's for your reference when running the program
+  desktop:
+    # On Windows, powershell -> ipconfig /all
+    # On macOS, ifconfig
+    # On Linux, you folks know what to do *wink*
+    mac_addr: ""
+    ip_addr: ""
